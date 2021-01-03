@@ -1,0 +1,35 @@
+[1201/195802.596:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1201/195956.365:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1211/175014.607:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/175014.649:ERROR:exception_snapshot_win.cc(99)] thread ID 6040 not found in process
+[1211/175014.768:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/175014.768:ERROR:exception_snapshot_win.cc(99)] thread ID 11100 not found in process
+[1211/175014.831:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/175014.831:ERROR:exception_snapshot_win.cc(99)] thread ID 15280 not found in process
+[1211/180257.757:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/180257.761:ERROR:exception_snapshot_win.cc(99)] thread ID 8688 not found in process
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1211/180257.806:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/180257.806:ERROR:exception_snapshot_win.cc(99)] thread ID 16872 not found in process
+[1211/180306.513:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/180306.516:ERROR:exception_snapshot_win.cc(99)] thread ID 14136 not found in process
+[1211/180306.641:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/180306.642:ERROR:exception_snapshot_win.cc(99)] thread ID 7516 not found in process
+[1211/223009.783:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/223009.822:ERROR:exception_snapshot_win.cc(99)] thread ID 4212 not found in process
+[1211/223009.870:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1211/223009.870:ERROR:exception_snapshot_win.cc(99)] thread ID 14720 not found in process
+[1216/180433.106:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
